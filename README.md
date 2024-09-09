@@ -1,3 +1,17 @@
+🚀 Learning Computer Vision with Detectron2 🚀
+
+As part of the Kampus Merdeka Batch 3 at Synthesis Academy (2022), I gained valuable insights into Computer Vision and the use of Detectron2, a powerful library developed by Facebook AI Research. While I didn't build the project myself, I learned how to upload it to GitHub, gaining hands-on experience with managing code and projects.
+
+Detectron2 is renowned for supporting state-of-the-art object detection and segmentation algorithms, widely used in both research and production at Facebook.
+
+My learning journey covered:
+
+Uploading Projects to GitHub: Best practices for project management and collaboration.
+Introduction to Detectron2: An overview of its applications and capabilities in computer vision.
+This experience expanded my understanding of the tools and workflows essential for modern AI projects.
+
+#ComputerVision #Python #Detectron2 #AI #KampusMerdeka #SynthesisAcademy
+
 <img src=".github/Detectron2-Logo-Horz.svg" width="300" >
 
 <a href="https://opensource.facebook.com/support-ukraine">
